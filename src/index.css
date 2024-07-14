@@ -5,3 +5,7 @@
 * {
   min-width: 0;
 }
+
+.datetime-local {
+  color-scheme: dark;
+}
